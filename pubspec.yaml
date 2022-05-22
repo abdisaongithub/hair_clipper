@@ -14,6 +14,10 @@ dependencies:
 
 
   cupertino_icons: ^1.0.4
+  vibration: ^1.7.3
+  assets_audio_player: ^3.0.4+3
+  fluttertoast: any
+
 
 dev_dependencies:
   flutter_test:
@@ -26,5 +30,6 @@ flutter:
   uses-material-design: true
 
   assets:
+    - assets/
     - assets/img/
     - assets/audio/

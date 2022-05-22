@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hair_clipper.iml" filepath="$PROJECT_DIR$/.idea/hair_clipper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/hair_clipper_android.iml" filepath="$PROJECT_DIR$/android/hair_clipper_android.iml" />
     </modules>
   </component>
 </project>
